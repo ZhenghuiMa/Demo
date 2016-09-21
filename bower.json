@@ -1,0 +1,26 @@
+{
+  "name": "twitterapp",
+  "description": "Implemented with redis/nodejs/reactjs",
+  "main": "index.js",
+  "authors": [
+    "Derek Ma"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "redis",
+    "nodejs",
+    "reactjs"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "^3.0.2"
+  }
+}
